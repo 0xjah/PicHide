@@ -38,9 +38,3 @@ python PH.py --image path/to/image.png --name output_image.png --apk your_apk
 python PH.py --image input.png --name encrypted_image.png --apk my_secret_key
 ```
 
-# requirement
-
-stepic
-```bash
-pip install stepic
-```
